@@ -13,7 +13,9 @@ A Real coding assesment that shows what I can produce in 1 hour and 12 minuets.
  
 ```
 
-Another coding assesment, but one with enough time code a little more elegantly. Examples include single line controllers, and a multi tenant isolation strategy without using query scopes. 
+Another coding assesment, but one with enough time code a little more elegantly.   
+Examples include single line controllers, and a multi tenant isolation strategy without using query scopes. 
+
 ```
 
 > [See Code](https://github.com/mokeseven7/deedee/blob/main/app/Http/Controllers/DeeDeeController.php#L14) | [See Code](https://github.com/mokeseven7/deedee/commit/7920e2b74ba6219288ecc2e944456fc6f2876b6e)
@@ -21,7 +23,9 @@ Another coding assesment, but one with enough time code a little more elegantly.
 
    
 ```
-Rewriting as much of a companies REST API as a GraqhQL API in an hour,  with no other direction then a Swaggerfile.
+
+Rewriting as much of a companies REST API as a GraqhQL API in an hour.  
+All I was given was a swagger file.
 
 ```
 > [See Code](https://github.com/mokeseven7/huntress)
@@ -37,7 +41,8 @@ context switching without using query scopes:
 
 ```
 
-That time a company asked me to make an entire Subscribtion service as the coding assesment. The code itself is not code im proud of, but the fact I actually managed to pull this off kind of amazes me. 
+That time a company asked me to make an entire Subscribtion service as the coding assesment. 
+The code itself is not code im proud of, but the fact I actually managed to pull this off kind of amazes me. 
 
 *With bonus video of me awkwardly making my Youtube debut per thier request.
 
